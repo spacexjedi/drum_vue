@@ -1,2 +1,2 @@
 # drum_vue
-Created with CodeSandbox
+FreeCodeCamp tutorial https://youtu.be/0b5T7wYDV5o
